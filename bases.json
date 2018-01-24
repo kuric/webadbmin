@@ -1,0 +1,22 @@
+{
+	"name1": {
+		"DBHOST": "HOSTNAME",
+		"DBNAME": "DBNAME",
+		"DBUSER": "DBUSER",
+		"DBPASS": "DBPASS",
+		"PREFIX": "",
+		"CHARACTER": "utf8",
+		"COLLATE": "utf8_general_ci",
+		"USERPREFIX": ""
+	},
+	"name2": {
+		"DBHOST": "HOSTNAME",
+		"DBNAME": "DBNAME",
+		"DBUSER": "DBUSER",
+		"DBPASS": "DBPASS",
+		"PREFIX": "",
+		"CHARACTER": "utf8",
+		"COLLATE": "utf8_general_ci",
+		"USERPREFIX": ""
+	}
+}
